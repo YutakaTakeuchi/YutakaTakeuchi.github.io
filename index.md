@@ -1,8 +1,8 @@
 # Yutaka Takeuchi's homepage
 
-- [CV](obsidian://open?vault=Strage&file=Carriculum%20Vitae)
-- [Preprints and list of publications](obsidian://open?vault=Strage&file=Research)
-- [Talks](obsidian://open?vault=Strage&file=Talks)
+- [CV](./Carriculum%20Vitae.md)
+- [Preprints and list of publications](./Research.md)
+- [Talks](Talks.md)
 ### Research interest
 I study probability theory. In particular, I'm interested in homogenization on random media.  I am working on homogenization for reflecting diffusions in a continuum percolation cluster.
 
