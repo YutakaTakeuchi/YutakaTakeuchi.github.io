@@ -1,6 +1,6 @@
 # Yutaka Takeuchi's homepage
 
-- [CV](./Carriculum%20Vitae.md)
+- [CV](./Carriculum%20Vitae.html)
 - [Preprints and list of publications](./Research.md)
 - [Talks](Talks.md)
 ### Research interest
