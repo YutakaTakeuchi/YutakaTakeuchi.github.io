@@ -6,8 +6,7 @@ Yutaka Takeuchi
 - March 2018: B.S. in Keio University (Supervisor: Atsuji Atsushi)
 
 ### Job history
-- May 2024 ~, project assistant professor of OLIS in life insurance mathematics, Keio University
-- May 2024 ~, researcher, CREST「作用素論に基づく複雑ダイナミクス計算基盤の創出」
+- May 2024 ~, project assistant professor (tenure)(research/education)(part time)(Faculty of Science and Technology) , Keio University
 - March 2024 ~ , Part-time teaching associate, Aoyama Gakuin University
 
 
