@@ -1,15 +1,17 @@
 
-Yutaka Takeuchi
+Yutaka Takeuchi （竹内  裕隆）
+
+For the Japanese version, please see my [researchmap page](https://researchmap.jp/YutakaTakeuchi).
 ### Education
 - March 2024: Ph.D in Department of Mathematics, Keio University (Supervisor: Hideki Tanemura)
 - March 2020: M.S. in Keio University (Supervisor: Hideki Tanemura)
 - March 2018: B.S. in Keio University (Supervisor: Atsuji Atsushi)
 
-### Job history
+### Job history 
 - May 2024 ~, Project Assistant Professor (Non-tenured), Keio University  （慶應義塾大学特任助教（有期）（研究/教育）（非常勤）（理工学研究科））
-- March 2024 ~ , Part-time teaching associate, Aoyama Gakuin University
-
-
+- May 2024 ~, Member of CREST Operator theoretic data analysis of complicated dynamics and its integrated utilization with mathematical models （CREST「作用素論的データ解析に基づく複雑ダイナミクス計算基盤の創出」 数学グループ メンバー）
+- April 2024 ~ , Part-time teaching associate, Aoyama Gakuin University
+- October 2020 ~ March 2022, Member of CREST Operator theoretic data analysis of complicated dynamics and its integrated utilization with mathematical models （CREST「作用素論的データ解析に基づく複雑ダイナミクス計算基盤の創出」 数学グループメンバー）
 
 ### Grants 
 - Keio University Doctoral Student Grant-in-Aid Program,  April 2020-March 2021
@@ -29,7 +31,7 @@ Yutaka Takeuchi
 - Exercise Session (Analysis Ⅱ) (Spring, 2024)
 
 
-##### Teaching Assistant at Keio University 
+##### Teaching assistant at Keio University 
 - First semester tutorial hours(mathematics, Ph.D student tutor) (2022) 
 - OLIS in life insurance mathematics (Autumn, 2022)
 - Probability theory and its exercise (Autumn, 2022)
@@ -48,7 +50,6 @@ Yutaka Takeuchi
 - OLIS in life insurance mathematics (Spring, 2020 (Intensive course))
 - Introduction to science and technology (Spring, 2020)
 - Foundation for mathematical science 3 (Spring, 2020)
-
 
 
 ### Additional Activities
