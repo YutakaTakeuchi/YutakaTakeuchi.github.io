@@ -1,4 +1,6 @@
 
+# Carriculum Vitae
+
 Yutaka Takeuchi （竹内  裕隆）
 
 For the Japanese version, please see my [researchmap page](https://researchmap.jp/YutakaTakeuchi).
@@ -26,6 +28,7 @@ For the Japanese version, please see my [researchmap page](https://researchmap.j
 ### Teaching
 
 ##### Teaching associate at Aoyama University
+- Exercise Session (Analysis ⅡB) (Autumn, 2024)
 - Problem Solving Seminar in Advanced Mathematics Ⅰ/Problem Solving Seminar in Mathematics Ⅰ (Spring, 2024)
 - Exercise Session (Differential Equations I) (Spring, 2024)
 - Exercise Session (Analysis Ⅱ) (Spring, 2024)
