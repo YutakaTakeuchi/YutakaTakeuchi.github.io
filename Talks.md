@@ -1,3 +1,6 @@
+- Subcritical regimes in the Poisson Boolean percolation on Ahlfors regular spaces, 無限粒子系、確率場の諸問題XIX, Nara woman's university, January 26, 2025 (Japanese) 
+- Subcritical regimes in the Poisson Boolean percolation on Ahlfors regular spaces, 2024年度確率論シンポジウム, Kyoto university, December 26, 2024 (Japanese)
+- Homogenization results for reflecting diffusions in a continuum percolation cluster, 東京確率論セミナー, 東京大学, June 17, 2024 (Japanese, invited)
 - Local Central Limit Theorem for Reflecting Diffusions in  a Continuum Percolation Cluster, 第20回数学総合若手研究集会, Hokkaido university, March 7, 2024 (Japanese)
 - Quenched Invariance Principle for a Reflecting Diffusion in a Continuum Percolation Cluster, BOSTON-KEIO-TSINGHUA WORKSHOP 2023, Boston University, June 28, 2023 (Poster, English) 
 - Homogenization of reflecting diffusions in a continuum percolation cluster, 20th symposium of Stochastic Analysis on Large Scale Interacting Systems,  Kyusyu University, December 8, 2022 (Japanese, invited)
